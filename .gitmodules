@@ -1,0 +1,3 @@
+[submodule "libs/libpancake"]
+	path = libs/libpancake
+	url = git@github.com:maluramichael/cmake-test-lib.git
